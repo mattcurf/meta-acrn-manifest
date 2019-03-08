@@ -2,7 +2,7 @@
 <manifest>
   <default sync-j="4" revision="master"/>
 
-  <remote fetch="https://github.com/liuming50" name="acrn"/>
+  <remote fetch="https://github.com/mattcurf" name="acrn"/>
   <remote fetch="https://github.com/sergioprado" name="bitbake-completion"/>
   <remote fetch="git://git.yoctoproject.org" name="yocto"/>
   <remote fetch="git://git.openembedded.org" name="oe"/>
