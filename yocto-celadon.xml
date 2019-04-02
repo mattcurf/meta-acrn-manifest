@@ -9,7 +9,6 @@
 
   <project remote="yocto" name="poky" revision="thud" path="sources/poky"/>
   <project remote="yocto" name="meta-intel" revision="thud" path="sources/meta-intel"/>
-  <project remote="yocto" name="meta-zephyr" revision="thud" path="sources/meta-zephyr"/>
   <project remote="oe" name="meta-openembedded" revision="thud" path="sources/meta-openembedded"/>
   <project remote="bitbake-completion" name="bitbake-bash-completion" path="sources/bitbake-bash-completion"/>
 
